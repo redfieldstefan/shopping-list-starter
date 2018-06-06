@@ -1,5 +1,5 @@
 # Shopping List Starter
-Use this repo as a starting point to creating a shopping list web app.
+Use this repo as a starting point to create a shopping list web app.
 
 ## Building and Starting the Application
 
