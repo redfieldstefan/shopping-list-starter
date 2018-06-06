@@ -1,0 +1,22 @@
+{
+  "name": "shopping-list-starter",
+  "version": "1.0.0",
+  "description": "Example React Shopping List Web App",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "author": "Walmart",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.1.4"
+  }
+}
